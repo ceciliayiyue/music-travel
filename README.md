@@ -21,4 +21,8 @@ npm run dev
 
 The app is automatically deployed to GitHub Pages on every push to main branch.
 
-Visit: https://yourusername.github.io/music-travel/
+Visit: https://ceciliayiyue.github.io/music-travel/
+
+## Status
+
+✅ Live and working!

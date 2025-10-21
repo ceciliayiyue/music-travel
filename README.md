@@ -25,4 +25,4 @@ Visit: https://ceciliayiyue.github.io/music-travel/
 
 ## Status
 
-✅ Live and working!
+🚀 Deploying via GitHub Actions...
